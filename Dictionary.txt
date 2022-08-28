@@ -1,0 +1,1 @@
+{worry=турбує, no=ні, other=іншої, in=в, cows=корови, one=одна, about=про, cow=корів, it=це, two=дві, i'm=я, horse=кінь, standing=стоять, mad=сказ, field=полі, me=мене, to=до, worried=хвилюєшся, doesn't=не, says=каже, you=ти, little=маленький}
